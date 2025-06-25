@@ -54,6 +54,22 @@ Host github.com
 - **OpenJDK**: [Download](https://jdk.java.net/)
 - **Docker Desktop**: [Download](https://www.docker.com/products/docker-desktop/)
 
+### Install PyCharm Community Edition (Windows)
+
+1. Go to the official download page:  
+   [https://www.jetbrains.com/pycharm/download/#section=windows](https://www.jetbrains.com/pycharm/download/#section=windows)
+
+2. Click **Download** under "Community Edition".
+
+3. Run the installer and follow these steps:
+   - Check **"Add launchers dir to the PATH"** (recommended).
+   - Optionally check **"Create Desktop Shortcut"**.
+   - Click **Install** and wait for the setup to complete.
+
+4. Once installed, you can launch PyCharm from the Start Menu or desktop icon.
+
+> ✅ PyCharm will prompt you to import settings (choose "Do not import settings" if this is your first install), then guide you through the initial setup wizard.
+
 ---
 
 ## 📦 Debian VM Installation (VMware)
