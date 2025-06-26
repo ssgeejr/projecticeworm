@@ -21,13 +21,11 @@ Use [Indeed](https://www.indeed.com) or [ZipRecruiter](https://www.ziprecruiter.
 * Cloud Support Technician
 * IT Support Specialist
 * Site Reliability Associate
-* Linux Administrator (Entry-Level)
 
 **Filter for:**
 
 * \$18–\$25/hr or \~\$2,000+/month
-* Remote or hybrid roles
-* Keywords in the description like: *AWS, Docker, GitHub, CI/CD, Terraform, Jenkins, Linux*
+* Keywords in the description like: *Devops, AWS, Docker, GitHub, CI/CD, Terraform, Jenkins, Linux*
 
 ### Step 2: Upload Job Description and Resume to ChatGPT
 
