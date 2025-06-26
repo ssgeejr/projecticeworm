@@ -13,6 +13,12 @@ This guide walks you through a repeatable process to:
 
 ## 🧭 Phase 1: Job Targeting & Resume Customization
 
+It is perfectly fine to search for jobs outside your local city or state. Many developers grow their careers early on by relocating for work, gaining experience in diverse environments, and expanding their professional network. Moving around during your 20s can accelerate your exposure to better roles and technologies, helping you build a strong foundation.
+
+### 🚫 DO NOT RELY ON COLD EMAILS
+
+Ignore unsolicited job offers or recruiter emails sent by bots or mass mailing systems. **Only trust job postings you actively search for on legitimate job boards.** These cold emails almost never lead to real employment.
+
 ### Step 1: Find a Job Listing
 
 Use [Indeed](https://www.indeed.com) or [ZipRecruiter](https://www.ziprecruiter.com) and search for jobs like:
@@ -21,11 +27,13 @@ Use [Indeed](https://www.indeed.com) or [ZipRecruiter](https://www.ziprecruiter.
 * Cloud Support Technician
 * IT Support Specialist
 * Site Reliability Associate
+* Linux Administrator (Entry-Level)
 
 **Filter for:**
 
 * \$18–\$25/hr or \~\$2,000+/month
-* Keywords in the description like: *Devops, AWS, Docker, GitHub, CI/CD, Terraform, Jenkins, Linux*
+* Jobs requiring on-site attendance or hands-on involvement
+* Keywords in the description like: *AWS, Docker, GitHub, CI/CD, Terraform, Jenkins, Linux, DevOps*
 
 ### Step 2: Upload Job Description and Resume to ChatGPT
 
@@ -48,6 +56,21 @@ Answer honestly and clearly.
 ---
 
 ## 🎤 Phase 2: Interview Preparation
+
+Before starting this phase:
+
+* **Submit the resume** as instructed by the job board.
+* **Complete any required questionnaires or applications**, but **do not** provide sensitive information unless you are certain the source is legitimate.
+
+  ❌ Never share:
+
+  * Full Social Security Number
+  * Date of Birth
+  * Driver’s License Number
+  * Bank Account or Routing Numbers
+  * Government ID photos
+
+Only continue if the platform is clearly labeled (e.g., Indeed, ZipRecruiter, official employer website).
 
 ### Step 1: Request Interview Questions
 
